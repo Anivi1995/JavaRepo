@@ -5,6 +5,7 @@ public class calculator {
 	{
 		int c = a+b;
 		return c;
+System.out.println("New project");
 	}
 
 	public void main(String[] args) {
